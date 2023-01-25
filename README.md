@@ -25,34 +25,7 @@ I'm Jubair, a Full Stack Web Application Developer from <img src="https://image.
 </p>
 
 <br>
-### My Projects
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Technology Used</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://travellers-nest.web.app" target="_blank">Travellers Nest</a></td>
-      <td>Full stack hotel booking site with payment gateway and separate User and Admin Dashboard.</td>
-      <td>React, Firebase, Node.js, Express, MongoDB</td>
-    </tr>
-    <tr>
-      <td> <a href="https://job-hunter-bd.web.app/"> Job Hunter</a></td>
-      <td>Full Stack Job Searching site. Employer can post a job, after it is getting approved by a Admin, job seeker can apply for the post from the board.</td>
-      <td>React, Firebase, Node.js, Express, MongoDB, Material UI</td>
-    </tr>
-    <tr>
-      <td><a href="https://sirajalislam.com/" target="_blank">Lawyer Portfolio</a></td>
-      <td>Single page lawyer portfolio site.</td>
-      <td>React, Material Ui</td>
-    </tr>
-  </tbody>
-</table>
 
 #### Profile Visits
 
