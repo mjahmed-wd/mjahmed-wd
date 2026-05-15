@@ -9,7 +9,7 @@
   <a href="mailto:mdjubairahmed@gmail.com"><img src="https://img.shields.io/badge/Email-mdjubairahmed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mjahmed-wd"><img src="https://komarev.com/ghpvc/?username=mjahmed-wd&label=Profile%20views&color=00B4D8&style=for-the-badge" /></a>
 </p>
----
+
  
 ### 👨‍💻 About Me
  
@@ -30,7 +30,7 @@ const jubair = {
 };
 ```
  
----
+
  
 ### 🛠️ Tech Stack
  
@@ -90,48 +90,6 @@ const jubair = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
----
- 
-### 🚀 Featured Projects
- 
-> Replace these placeholders with your top repositories — they'll render as live preview cards.
- 
-<p align="center">
-  <a href="https://github.com/mjahmed-wd/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjahmed-wd&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mjahmed-wd/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjahmed-wd&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mjahmed-wd/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjahmed-wd&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mjahmed-wd/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjahmed-wd&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-➡️ Explore more on my [**portfolio**](https://mjubair.com) and [**GitHub repositories**](https://github.com/mjahmed-wd?tab=repositories).
- 
----
- 
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mjahmed-wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjahmed-wd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmed-wd&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mjahmed-wd&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjahmed-wd&theme=tokyo-night&hide_border=true&area=true" />
-</p>
----
  
 ### ✨ Fun Facts About Me
  
