@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://mjubair.com"><img src="https://img.shields.io/badge/Portfolio-mjubair.com-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mjubairahmed/"><img src="https://img.shields.io/badge/LinkedIn-mjubairahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdjubairahmed@gmail.com"><img src="https://img.shields.io/badge/Email-mdjubairahmed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mail@mjubair.com"><img src="https://img.shields.io/badge/Email-mail%40mjubair.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mjahmed-wd"><img src="https://komarev.com/ghpvc/?username=mjahmed-wd&label=Profile%20views&color=00B4D8&style=for-the-badge" /></a>
 </p>
 
