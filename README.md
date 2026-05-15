@@ -90,6 +90,10 @@ const jubair = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+
+<p align="center">
+ <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmed-wd&theme=dark" />
+</p>
  
 ### ✨ Fun Facts About Me
  
